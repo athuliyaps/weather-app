@@ -1,0 +1,20 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+  
+}
+
+#background{
+    background-image: url("https://static.vecteezy.com/system/resources/thumbnails/002/020/916/small/weather-news-intro-free-video.jpg");
+    background-size: cover;
+
+}
+
+#bg{
+    background-image: url(https://i0.wp.com/vikalpsangam.org/wp-content/uploads/migrate/Environment_And_Ecology/manumoudgilhensleyclouds.jpg?resize=640%2C388&ssl=1);
+    background-size: cover;
+} 
+#background{
+    height: 100vh;
+}
